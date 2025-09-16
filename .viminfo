@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1757994289,,"wq"
+|2,0,1757994374,,"wq"
 :ㅈㅂ
 |2,0,1757993371,,"ㅈㅂ"
 :q!
@@ -35,65 +35,73 @@
 
 # Registers:
 ""1	LINE	0
-	              number: 80
-|3,1,1,1,1,0,1757981544,"              number: 80"
+	#
+|3,1,1,1,1,0,1757994367,"#"
 "2	LINE	0
-	            port:
-|3,0,2,1,1,0,1757981543,"            port:"
+	              number: 80
+|3,0,2,1,1,0,1757981544,"              number: 80"
 "3	LINE	0
-	            name: skyline-service
-|3,0,3,1,1,0,1757981543,"            name: skyline-service"
+	            port:
+|3,0,3,1,1,0,1757981543,"            port:"
 "4	LINE	0
-	          service:
-|3,0,4,1,1,0,1757981542,"          service:"
+	            name: skyline-service
+|3,0,4,1,1,0,1757981543,"            name: skyline-service"
 "5	LINE	0
-	        backend:
-|3,0,5,1,1,0,1757981542,"        backend:"
+	          service:
+|3,0,5,1,1,0,1757981542,"          service:"
 "6	LINE	0
-	        pathType: Prefix
-|3,0,6,1,1,0,1757981542,"        pathType: Prefix"
+	        backend:
+|3,0,6,1,1,0,1757981542,"        backend:"
 "7	LINE	0
-	      - path: /
-|3,0,7,1,1,0,1757981541,"      - path: /"
+	        pathType: Prefix
+|3,0,7,1,1,0,1757981542,"        pathType: Prefix"
 "8	LINE	0
-	      paths:
-|3,0,8,1,1,0,1757981541,"      paths:"
+	      - path: /
+|3,0,8,1,1,0,1757981541,"      - path: /"
 "9	LINE	0
-	  - http:
-|3,0,9,1,1,0,1757981540,"  - http:"
+	      paths:
+|3,0,9,1,1,0,1757981541,"      paths:"
 "-	CHAR	0
 	로
 |3,0,36,0,1,0,1757901216,"로"
 
 # File marks:
-'0  25  5  ~/.gitignore
-|4,48,25,5,1757994289,"~/.gitignore"
-'1  30  5  ~/.gitignore
-|4,49,30,5,1757994204,"~/.gitignore"
-'2  30  5  ~/.gitignore
-|4,50,30,5,1757994204,"~/.gitignore"
-'3  11  11  ~/.gitignore
-|4,51,11,11,1757993375,"~/.gitignore"
-'4  11  11  ~/.gitignore
-|4,52,11,11,1757993375,"~/.gitignore"
-'5  11  11  ~/.gitignore
-|4,53,11,11,1757993375,"~/.gitignore"
-'6  11  11  ~/.gitignore
-|4,54,11,11,1757993375,"~/.gitignore"
-'7  24  23  ~/k8s/ingress.yaml
-|4,55,24,23,1757981628,"~/k8s/ingress.yaml"
-'8  24  14  ~/k8s/ingress.yaml
-|4,56,24,14,1757981546,"~/k8s/ingress.yaml"
-'9  15  28  ~/k8s/ingress.yaml
-|4,57,15,28,1757981433,"~/k8s/ingress.yaml"
+'0  14  7  ~/.gitignore
+|4,48,14,7,1757994374,"~/.gitignore"
+'1  23  5  ~/.gitignore
+|4,49,23,5,1757994289,"~/.gitignore"
+'2  25  5  ~/.gitignore
+|4,50,25,5,1757994289,"~/.gitignore"
+'3  28  5  ~/.gitignore
+|4,51,28,5,1757994204,"~/.gitignore"
+'4  28  5  ~/.gitignore
+|4,52,28,5,1757994204,"~/.gitignore"
+'5  30  5  ~/.gitignore
+|4,53,30,5,1757994204,"~/.gitignore"
+'6  30  5  ~/.gitignore
+|4,54,30,5,1757994204,"~/.gitignore"
+'7  11  11  ~/.gitignore
+|4,55,11,11,1757993375,"~/.gitignore"
+'8  11  11  ~/.gitignore
+|4,56,11,11,1757993375,"~/.gitignore"
+'9  11  11  ~/.gitignore
+|4,57,11,11,1757993375,"~/.gitignore"
 
 # Jumplist (newest first):
+-'  14  7  ~/.gitignore
+|4,39,14,7,1757994374,"~/.gitignore"
+-'  23  5  ~/.gitignore
+|4,39,23,5,1757994355,"~/.gitignore"
 -'  25  5  ~/.gitignore
 |4,39,25,5,1757994289,"~/.gitignore"
+-'  28  5  ~/.gitignore
+|4,39,28,5,1757994252,"~/.gitignore"
 -'  30  5  ~/.gitignore
 |4,39,30,5,1757994252,"~/.gitignore"
 -'  30  5  ~/.gitignore
 |4,39,30,5,1757994204,"~/.gitignore"
+-'  11  11  ~/.gitignore
+|4,39,11,11,1757994138,"~/.gitignore"
 -'  11  11  ~/.gitignore
 |4,39,11,11,1757994138,"~/.gitignore"
 -'  11  11  ~/.gitignore
@@ -106,6 +114,8 @@
 |4,39,1,0,1757993358,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1757993358,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1757993358,"~/.gitignore"
 -'  24  23  ~/k8s/ingress.yaml
 |4,39,24,23,1757981628,"~/k8s/ingress.yaml"
 -'  24  23  ~/k8s/ingress.yaml
@@ -122,6 +132,38 @@
 |4,39,24,23,1757981628,"~/k8s/ingress.yaml"
 -'  24  23  ~/k8s/ingress.yaml
 |4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  23  ~/k8s/ingress.yaml
+|4,39,24,23,1757981628,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
+-'  24  14  ~/k8s/ingress.yaml
+|4,39,24,14,1757981546,"~/k8s/ingress.yaml"
 -'  24  14  ~/k8s/ingress.yaml
 |4,39,24,14,1757981546,"~/k8s/ingress.yaml"
 -'  24  14  ~/k8s/ingress.yaml
@@ -171,6 +213,50 @@
 -'  15  28  ~/k8s/ingress.yaml
 |4,39,15,28,1757981496,"~/k8s/ingress.yaml"
 -'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981496,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
 |4,39,15,28,1757981433,"~/k8s/ingress.yaml"
 -'  15  28  ~/k8s/ingress.yaml
 |4,39,15,28,1757981433,"~/k8s/ingress.yaml"
@@ -186,6 +272,10 @@
 |4,39,15,28,1757981433,"~/k8s/ingress.yaml"
 -'  15  28  ~/k8s/ingress.yaml
 |4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
+-'  15  28  ~/k8s/ingress.yaml
+|4,39,15,28,1757981433,"~/k8s/ingress.yaml"
 -'  1  0  ~/k8s/ingress.yaml
 |4,39,1,0,1757981413,"~/k8s/ingress.yaml"
 -'  1  0  ~/k8s/ingress.yaml
@@ -198,111 +288,22 @@
 |4,39,1,0,1757981413,"~/k8s/ingress.yaml"
 -'  1  0  ~/k8s/ingress.yaml
 |4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  1  0  ~/k8s/ingress.yaml
-|4,39,1,0,1757981413,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  15  23  ~/k8s/ingress.yaml
-|4,39,15,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  15  23  ~/k8s/ingress.yaml
-|4,39,15,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  15  23  ~/k8s/ingress.yaml
-|4,39,15,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  15  23  ~/k8s/ingress.yaml
-|4,39,15,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
--'  15  23  ~/k8s/ingress.yaml
-|4,39,15,23,1757980456,"~/k8s/ingress.yaml"
--'  38  23  ~/k8s/ingress.yaml
-|4,39,38,23,1757980456,"~/k8s/ingress.yaml"
--'  47  23  ~/k8s/ingress.yaml
-|4,39,47,23,1757980456,"~/k8s/ingress.yaml"
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	*	1757994288	0
-	"	25	5
-	^	25	6
-	.	26	12
+	*	1757994373	0
+	"	14	7
+	^	14	8
+	.	13	0
 	+	12	7
 	+	11	11
-	+	30	6
-	+	29	12
-	+	28	7
-	+	27	5
-	+	26	12
+	+	28	6
+	+	27	12
+	+	26	7
+	+	25	5
+	+	24	12
+	+	13	0
 
 > ~/k8s/ingress.yaml
 	*	1757981627	0

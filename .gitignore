@@ -10,8 +10,6 @@
 
 # 변수파일
 *.tfvars
-
-#
 .bash_history
 .bash_logout
 .bashrc
