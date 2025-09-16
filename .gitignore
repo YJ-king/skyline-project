@@ -19,7 +19,7 @@
 .profile
 .sudo_as_admin_successful
 .viminfo
-.wget_hsts
+.wget-hsts
 .azure
 .terraform.d/
 .kube/
