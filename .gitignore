@@ -23,8 +23,8 @@
 .viminfo
 .wget_hsts
 .azure
-.terraform.d
-.kube
-.docker
-.config/helm
-.cache
+.terraform.d/
+.kube/
+.docker/
+.config/helm/
+.cache/
