@@ -10,3 +10,21 @@
 
 # 변수파일
 *.tfvars
+
+#
+.bash_history
+.bash_logout
+.bashrc
+.gitconfig
+.lesshst
+.motd_shown
+.profile
+.sudo_as_admin_successful
+.viminfo
+.wget_hsts
+.azure
+.terraform.d
+.kube
+.docker
+.config/helm
+.cache
